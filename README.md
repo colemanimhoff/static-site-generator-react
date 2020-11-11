@@ -9,3 +9,7 @@ npm start
 ```bash
 npm run build
 ```
+
+# Todos
+
+- Add react router and check build
